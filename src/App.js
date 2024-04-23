@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Createplan from './components/screens/Createplan';
 
