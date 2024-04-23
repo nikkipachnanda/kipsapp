@@ -1,10 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import Createplan from './components/screens/Createplan';
+
+
+
 
 function App() {
   return (
     <div className="App">
-      APp file
+      <Createplan />
     </div>
   );
 }
